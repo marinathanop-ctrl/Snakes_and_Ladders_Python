@@ -1,5 +1,3 @@
-#Marina Thanopoulou AM5802
-
 # I import random for the die and for the choice of the first player.
 import random
 
